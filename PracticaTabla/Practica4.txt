@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> La tabla de Germayoli</title>
+</head>
+<body>
+    <thead>
+        <H3>La Tabla de Germayoli</H3>
+    </thead>
+    <tbody>
+        <table class="Tabla1">
+            <tr>
+                <td>Jeiron</td>
+                <td>Chanel</td>
+                <td>Jeremi</td>
+                <td>Lisi</td>
+            </tr>
+            <tr>
+                <td>Dayani</td>
+                <td>Luis </td>
+                <td>Kilsi</td>
+                <td>Germayoli</td>
+
+            </tr>
+            <tr>
+                <td>Jeisson</td>
+                <td>Kenia</td>
+                <td>Braniel</td>
+                <td>Luiyi</td>
+
+            </tr>
+        </table>
+        <form>
+            <input type="text" name="" id="">
+            <select name="" id="">
+                <option value="">1</option>
+                <option value="">2</option>
+                <option value="">3</option>
+                <option value="">4</option>
+            </select>
+            <h4>Sexo</h4>
+            <label for="">
+                M
+                <input type="checkbox">
+            </label>
+            <label for="">
+                F
+                <input type="checkbox">
+            </label>
+
+            </select>
+            <h4>¿Eres capaz de trabajar bajo presión?
+
+             SI
+                <input type="checkbox">
+            </label>
+            <label for="">
+                NO
+                <input type="checkbox">
+            </label>
+</h4>
+
+
+            </select>
+            <h4>¿Has completado tu educación formal?
+
+
+
+             SI
+                <input type="checkbox">
+            </label>
+            <label for="">
+                NO
+                <input type="checkbox">
+            </label>
+
+            </select>
+            <h4>¿Has completado tu educación formal?
+            
+             SI
+                <input type="checkbox">
+            </label>
+            <label for="">
+                NO
+                <input type="checkbox">
+            </label>
+
+            
+            </select>
+            <h4>¿Prefieres la comunicación escrita o verbal en el entorno laboral?
+
+            
+             Verbal 
+                <input type="checkbox">
+            </label>
+            <label for="">
+                Escrita
+                <input type="checkbox">
+            </label>
+
+            </select>
+            <h4>¿Tienes experiencia en liderar equipos o proyectos?
+
+            
+             SI
+                <input type="checkbox">
+            </label>
+            <label for="">
+                NO
+                <input type="checkbox">
+            </label>
+
+
+
+
+
+           
+
+            
+        
+
+        </form>
+    </tbody>
+</body>
+</html>
